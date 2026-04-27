@@ -11,7 +11,7 @@ Dưới đây là các kỹ năng Git cốt lõi đã được thực hành và 
 
 | Bài thực hành | Đường dẫn|
 | :--- | :--- | :--- |
-| **01. Khởi tạo** | [[](https://github.com/sangoz/GitZero.git)]
+| **01. Khởi tạo** | [[baitap1](https://github.com/sangoz/GitZero.git)]
 | **02. Bài tập chương 5** | [](https://github.com/sangoz/chapter5_01)]
 | **03. Bài tập chương 6**| [[](https://github.com/sangoz/chapter6_01)] 
 | **04. Bài tập chương 7** | [[](https://github.com/sangoz/chapter7_02.git)] 
